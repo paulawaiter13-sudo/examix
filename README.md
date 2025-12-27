@@ -8,8 +8,8 @@ Group number: 100
 ## Description
 EXAMIX is a conceptual web interface for an exam-mixing system that allows students and teachers to upload an existing Form 0 exam (PDF) and generate multiple shuffled versions for practice or assessment.
 
-This repository contains Part 1 of the course assignment:
-the implementation of a fully responsive homepage
+This repository contains Part 3 of the course project:
+the implementation of a responsive homepage
 
 ## Implementations
 Responsive homepage layout (desktop / tablet / mobile)
