@@ -1,8 +1,8 @@
 # Project - Assignment 3
 Students:
-Emile Khamis 
-Mahmoud Jabareen
-Paula Waiter
+Emile Khamis, 
+Mahmoud Jabareen,
+Paula Waiter - 
 Group number: 100
 
 ## Description
