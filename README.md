@@ -31,4 +31,3 @@ Clean and consistent UI design
 ## GitHub Pages
 The project is deployed using **GitHub Pages** and can be viewed here:  
 👉 
-
